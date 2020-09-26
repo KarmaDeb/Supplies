@@ -1,0 +1,9 @@
+UpdateInterval: 5
+PlayAnimation: true
+WandItem: STICK
+WandItemName: '&7Supply selector'
+DropIfNoSize: false
+DestroyUnderBlock: truke
+Shop: true
+DisabledWorlds: []
+DisabledRegions: []

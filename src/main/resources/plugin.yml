@@ -1,0 +1,22 @@
+name: "Supplies"
+version: "1.1.1"
+main: ml.karmaconfigs.Supplies.Main
+authors:
+  - KarmaConfigs
+  - KarmaDev
+load: POSTWORLD
+website: https://karmaconfigs.ml
+prefix: "Supply"
+description: "An special supplies plugin"
+softdepend:
+  - HolographicDisplays
+  - QualityArmory
+  - Vault
+  - WorldGuard
+  - WorldEdit
+commands:
+  supply:
+    description: Main supplies command
+    aliases:
+      - sup
+      - supplies
