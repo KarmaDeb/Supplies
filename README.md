@@ -1,4 +1,4 @@
 # Supplies
 Supplies plugin source
 
-Don't forget to read [GSA general plugin license](https://karmaconfigs.github.io/page/license/)
+Don't forget to read [GSA general plugin license](http://karmaconfigs.cf/license/)
